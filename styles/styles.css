@@ -1,0 +1,25 @@
+p {
+  font-size: 30px
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+img {
+    margin: 50px;
+}
+.intro_paragraph{
+  font-size: 15px
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+    background: #060b33;
+    background: #060b33;
+}
+a {
+    color: aliceblue;
+    font-weight: bolder;
+}
